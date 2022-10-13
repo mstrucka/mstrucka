@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mstrucka
+- 🌱 I’m currently both a student and a part time developer, learning mostly backend technologies, mostly Java and .NET, with a few ongoing Typescript projects as well.
+- However, I try to consistently educate myself in the frontend technologies as well, currently dabbling with React
