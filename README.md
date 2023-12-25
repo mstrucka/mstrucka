@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @mstrucka, based in Copenhagen, Denmark.
-- I’m currently both a student (bachelor's in Computer Science) and a part time developer, learning mostly backend technologies, mostly Java and .NET, with a few ongoing Typescript projects as well.
-- However, I try to consistently educate myself in the frontend technologies as well, currently dabbling with React
+- I’m a full time developer, working mostly with backend technologies, namely Java/kotlin and a have a few ongoing projects in other languages.
